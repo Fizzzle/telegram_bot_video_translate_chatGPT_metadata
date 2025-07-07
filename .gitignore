@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Виртуальные окружения
+.venv/
+venv/
+venv1/
+env/
+ENV/
+*.env
+
+# Личные данные и ключи
+.env
+
+# PyCharm / IntelliJ IDEA
+.idea/
