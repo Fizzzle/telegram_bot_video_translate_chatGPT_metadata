@@ -12,3 +12,11 @@ venv1/
 
 # Видео
 downloads/*.mp4
+.env
+client_secret_drive.json
+token_drive.pickle
+.venv/
+venv/
+__pycache__/
+downloads/*.mp4
+*.pyc
