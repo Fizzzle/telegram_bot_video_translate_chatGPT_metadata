@@ -1,19 +1,14 @@
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
+.env
+.token_drive.pickle
+client_secret_drive.json
 
 # Виртуальные окружения
 .venv/
 venv/
 venv1/
-env/
-ENV/
-*.env
 
-# Личные данные и ключи
-.env
-
-# PyCharm / IntelliJ IDEA
+# PyCharm
 .idea/
+
+# Видео
+downloads/*.mp4
